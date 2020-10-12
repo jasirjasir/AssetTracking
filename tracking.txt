@@ -1,0 +1,6 @@
+Time Stamp : 2020-01-14T03:54:09.627Z - Mac Address: AC233FC0211B
+Time Stamp : 2020-01-14T03:54:09.627Z - Mac Address: AC233FC0211B
+BLE Name: MiniBeacon_00010 - Minor ID: 19641 - Rssi: -75
+BLE Name: beacon1 - Minor ID: 4354 - Rssi: -75
+BLE Name: MiniBeacon_00010 - Minor ID: 19641 - Rssi: -75
+BLE Name: beacon1 - Minor ID: 4354 - Rssi: -75
