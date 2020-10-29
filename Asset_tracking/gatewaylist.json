@@ -1,0 +1,34 @@
+{
+  "location_data": [
+      {
+          "gateway_name": "G1",
+          "mac_id": "AC233FC0211B",
+          "x": "10",
+          "y": "20"
+      },
+      {
+          "gateway_name": "G2",
+          "mac_id": "B43E3FC03456",
+          "x": "0",
+          "y": "0"
+      },
+      {
+          "gateway_name": "G3",
+          "mac_id": "AC233FC0232C",
+          "x": "12",
+          "y": "34"
+      },
+      {
+          "gateway_name": "G4",
+          "mac_id": "AC233UI3454",
+          "x": "23",
+          "y": "45"
+      },
+      {
+          "gateway_name": "G5",
+          "mac_id": "AC233YTR343",
+          "x": "34",
+          "y": "56"
+      }
+  ]
+}

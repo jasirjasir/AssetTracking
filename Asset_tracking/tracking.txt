@@ -1,0 +1,5 @@
+BLE Name: MiniBeacon_00010 - Minor ID: 19641 - Rssi: -75 - Gateway: AC233FC0211B
+BLE Name: Kontakt-1 - Minor ID: 7805 - Rssi: -75 - Gateway: AC233FC0211B
+BLE Name: Kontakt-1 - Minor ID: 7805 - Rssi: -81 - Gateway: B43E3FC03456
+BLE Name: MiniBeacon_00010 - Minor ID: 19641 - Rssi: -75 - Gateway: AC233FC0232C
+BLE Name: Kontakt-1 - Minor ID: 7805 - Rssi: -75 - Gateway: AC233FC0232C

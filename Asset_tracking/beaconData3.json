@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp":"2020-01-14T03:54:09.627Z",
+    "type":"Gateway",
+    "mac":"AC233FC0232C",
+    "gatewayFree":86,
+    "gatewayLoad":1.96
+  },{
+    "timestamp":"2020-01-14T03:54:09.704Z",
+    "type":"iBeacon",
+    "mac":"D4221500000A",
+    "bleName":"Kontakt-1",
+    "ibeaconUuid":"FDA50693A4E24FB1AFCFC6EB07647825",
+    "ibeaconMajor":1234,
+    "ibeaconMinor":7805,
+    "rssi":-75,
+    "ibeaconTxPower":-59,
+    "battery":28
+  }, {
+    "timestamp":"2020-01-14T03:54:09.704Z",
+    "type":"iBeacon",
+    "mac":"D4221500000A",
+    "bleName":"MiniBeacon_00010",
+    "ibeaconUuid":"FDA50693A4E24FB1AFCFC6EB07647825",
+    "ibeaconMajor":10001,
+    "ibeaconMinor":19641,
+    "rssi":-75,
+    "ibeaconTxPower":-59,
+    "battery":28
+  }, {
+    "timestamp":"2020-01-14T03:54:09.643Z",
+    "type":"S1",
+    "mac":"AC233F291242",
+    "bleName":"S1",
+    "rssi":-71,
+    "battery":23,
+    "temperature":22.1,
+    "humidity":61.95
+  } , {
+    "timestamp":"2020-01-14T03:54:09.644Z",
+    "type":"Unknown",
+    "mac":"0F030ED2BB0F",
+    "bleName":"",
+    "rssi":-72,
+    "rawData":"1EFF0600010920024807BE10889564408E6509ABFF294B7E90E68F143E042F"
+  }
+]

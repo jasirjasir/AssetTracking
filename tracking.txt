@@ -1,0 +1,2 @@
+BLE Name: MiniBeacon_00010 - Minor ID: 19641 - Rssi: -75
+BLE Name: MiniBeacon_00010 - Minor ID: 19641 - Rssi: -75
